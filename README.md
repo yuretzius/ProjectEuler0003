@@ -25,7 +25,7 @@ And for this one something very short and simple will do:
 N = 600851475143
 f = 1
 
-while f*f <= N: # 
+while f*f <= N: 
     f = f + 1 
     while N % f == 0 and N != f:
         N = N // f
