@@ -23,7 +23,8 @@
 
 using namespace std;
 
-
+// Hackerrank multiple input version
+// input 1 and then 600851475143 to solve the original problem
 int main(){
     int t;
     cin >> t;
