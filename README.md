@@ -35,7 +35,8 @@ print(N)
 Only need to go up to sqrt(N), because if the largest factor is > sqrt(N), we'll end up with it after all the divisions, and during the divisions as soon as we reach N = f, we are done.
 This is hardly very efficient, since we sift through many composites by going with the step 1. This is also the Java version.
 
-I did another simple Python version with step 2, it cuts slightly more than 1/3 of the processing time. I have it also as a C++ version. 
+I did another simple Python version with step 2, it cuts slightly more than 1/3 of the processing time. I have it also as a C++ version (it is a Hackerrank version for multiple inputs,
+so need to enter first 1 and then 600851475143 to solve the original Project Euler problem). 
 
 I won't do any more improvements at this time.
 
