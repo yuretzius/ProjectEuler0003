@@ -33,7 +33,9 @@ print(N)
 ```
 
 Only need to go up to sqrt(N), because if the largest factor is > sqrt(N), we'll end up with it after all the divisions, and during the divisions as soon as we reach N = f, we are done.
-This is hardly very efficient, since we sift through many composites by going with the step 1. But the Java version did satisfy the Hackerrank time constraints.
+This is hardly very efficient, since we sift through many composites by going with the step 1. This is also the Java version.
 
-I did another simple Python version with step 2, it cuts slightly more than 1/3 of the processing time. I won't do any more improvements at this time.
+I did another simple Python version with step 2, it cuts slightly more than 1/3 of the processing time. I have it also as a C++ version. 
+
+I won't do any more improvements at this time.
 
