@@ -1,7 +1,7 @@
 # ProjectEuler0003
 My work on 
 
-problem #3 of projecteuler.net:
+[problem #3 of projecteuler.net](https://projecteuler.net/problem=3):
 
 Largest Prime Factor
 
