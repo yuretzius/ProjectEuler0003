@@ -3,18 +3,16 @@ My work on
 
 [problem #3 of projecteuler.net](https://projecteuler.net/problem=3):
 
-Largest Prime Factor
+### Largest Prime Factor
 
 The prime factors of 13195 are 5, 7, 13, and 29.
 
 What is the largest prime factor of the number 600851475143 ?
 
-Completed on Sat, 20 Feb 2021, 17:22
+*Completed on Sat, 20 Feb 2021, 17:22*
 
-#######################################################################################
-Please note: Project Euler's policy allows publication of solutions for the first 100 problems,
-that's why I am sharing my work here for reference and educational purposes.
-#######################################################################################
+> [!NOTE]
+> Project Euler's policy allows publication of solutions for the first 100 problems, that's why I am sharing my work here for reference and educational purposes.
 
 I did many various attempts to make this optimal (not posting them here), but at the end I think the real fight for
 efficient prime factoring should wait till later problems, since here we do not need all the factors, just the largest one.
